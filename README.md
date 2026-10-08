@@ -1,34 +1,20 @@
-### Pruebas de regresión | Urban Routes | Bootcamp QA Engineer 2026 (En curso)
--	Ejecute pruebas de regresión sobre una aplicación de transporte validando funcionalidades clave como cálculo de rutas, duración y precio.
--	Identifique discrepancias entre resultados esperados y reales en múltiples escenarios de usuario.
--	Documente y reporte errores detallados incluyendo pasos, resultados y severidad.
+Pruebas de aplicaciones móviles | Urban Lunch | QA Engineer Bootcamp - TripleTen 2026
 
-Logro o impacto: Detección de errores críticos que impactaban la experiencia del usuario.
-        Herramientas tecnológicas utilizadas: Casos de prueba, Reporte de bugs.
+## Descripción
+Urban Lunch es una aplicación móvil para realizar pedidos de comida. Mi objetivo fue comprobar, a partir de sus requisitos funcionales, que el flujo completo del pedido funcionara correctamente, desde la selección del punto de recogida hasta la finalización del pedido.
 
-### Diseño de pruebas y análisis de requisitos | Urban Routes | Bootcamp QA Engineer 2026 (En curso)
--	Analice requisitos funcionales de la característica “Compartir Automóvil”.
--	Diseñe clases de equivalencia y valores límite para validación de campos.
--	Elaboré mapa mental para visualizar comportamiento del sistema y construí diagrama de flujo para representar la lógica de calculo basada en reglas de negocio.
--	Diseñe casos de prueba enfocados en validación de cálculos de duración y precio.
+## Diseño y Alcance de las Pruebas
+- Ejecuté pruebas funcionales del flujo completo: selección de punto de recogida, elección de platillos, confirmación, seguimiento y finalización del pedido.
+- Elaboré y ejecuté una lista de comprobación basada en los requisitos funcionales.
+- Verifiqué la navegación, la selección y eliminación de platillos y el progreso del flujo.
+- Probé en un dispositivo Android y en Android Studio, en diferentes escenarios funcionales.
 
-Logro o impacto: Mejora en la cobertura de pruebas y detección de escenarios no considerados.
-        Herramientas tecnológicas utilizadas: Diseño de pruebas, Análisis de requisitos, Draw.io.
+## Herramientas y Técnicas:
+- Android Studio
+- Postman
+- Jira
+- Lista de comprobación
+- Prueba en dispositivo móvil
 
-### Validación funcional de reserva de automóvil | Urban Routes | Bootcamp QA Engineer 2026 (En curso)
--	Diseñe listas de comprobación para validación de interfaz y funcionalidad.
--	Cree y ejecute casos de prueba para la reserva de automóvil.
--	Probe la aplicación en diferentes entornos (navegador y resolución).
--	Detecte y reporte errores en Jira con evidencia y seguimiento.
-
-Logro o impacto: Identificación de defectos en UI, lógica y flujo de usuario.
-        Herramientas tecnológicas utilizadas: Jira.
-
-### Pruebas de API | Urban Grocers | Bootcamp QA Engineer 2026 (En curso)
--	Analice requisitos del backend y documentación de API para definir estrategia de pruebas.
--	Diseñe casos de prueba cubriendo escenarios positivos, negativos, clases de equivalencia y valores limite.
--	Ejecute pruebas de endpoints mediante Postman validando códigos de estado, estructura y lógica de respuesta.
--	Reporte incidencias en Jira.
-
-Logro o impacto: Detección de fallos en API.
-        Herramientas tecnológicas utilizadas: Postman, Jira
+## Resultado
+Cobertura del flujo completo del pedido, desde la selección del punto de recogida hasta su finalización.

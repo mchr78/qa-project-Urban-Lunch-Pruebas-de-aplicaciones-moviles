@@ -9,7 +9,7 @@ Urban Lunch es una aplicación móvil para realizar pedidos de comida. Mi objeti
 - Verifiqué la navegación, la selección y eliminación de platillos y el progreso del flujo.
 - Probé en un dispositivo Android y en Android Studio, en diferentes escenarios funcionales.
 
-## Herramientas y Técnicas:
+## Herramientas y Técnicas
 - Android Studio
 - Postman
 - Jira
